@@ -8,11 +8,19 @@ Dies ist ein kleines Player-Controller-Skript, das ich erstellt habe. Sie könne
 
 Wie ich die Variablen angepasst habe:
 
-Move Speed 5            - Bestimmt die Standardt Bewegungs Geschwindigkeit des Spielers
-Air Controll 0.3        - Bestimmt die Bewegungs Geschwindigkeit vom Spieler in der Luft 
-Sprint Speed 8.5        - Bestimmt die Sprint Bewegungs Geschwindigkeit des Spielers
-Jump Force 5            - Bestimmt die Sprungkraft des Spieler
-Max Rotation 90         - Bestimmt wie weit nach oben der Spieler schauen kann
-Mind Rotation -90       - Bestimmt wie weit nach unten der Spieler schauen kann
-Mouse Sensitivity 2     - Bestimmt wie schnell der Spieler sich mit der Maus umschauen kann
-Max Speed 15            - Bestimmt die Maximale Geschwidigkeit des Spielers
+Move Speed: 5            - Bestimmt die Standardt Bewegungs Geschwindigkeit des Spielers
+<br>
+Air Controll: 0.3        - Bestimmt die Bewegungs Geschwindigkeit vom Spieler in der Luft 
+<br>
+Sprint Speed: 8.5        - Bestimmt die Sprint Bewegungs Geschwindigkeit des Spielers
+<br>
+Jump Force: 5            - Bestimmt die Sprungkraft des Spieler
+<br>
+Max Rotation: 90         - Bestimmt wie weit nach oben der Spieler schauen kann
+<br>
+Mind Rotation: -90       - Bestimmt wie weit nach unten der Spieler schauen kann
+<br>
+Mouse Sensitivity: 2     - Bestimmt wie schnell der Spieler sich mit der Maus umschauen kann
+<br>
+Max Speed: 15            - Bestimmt die Maximale Geschwidigkeit des Spielers
+<br>
